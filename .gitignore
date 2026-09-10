@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data (large) — add if you want it versioned
+data/
+
+# Generated results
+results/
